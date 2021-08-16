@@ -1,0 +1,15 @@
+{
+  "name": "queuemyspotify",
+  "version": "1.0.0",
+  "description": "A jukebox app for spotify",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Sanderson",
+  "license": "ISC"
+}
